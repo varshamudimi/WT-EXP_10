@@ -1,0 +1,16 @@
+{
+  "name": "exp10",
+  "version": "1.0.0",
+  "description": "User registration using Node.js and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
